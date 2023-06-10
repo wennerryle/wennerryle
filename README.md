@@ -1,4 +1,14 @@
-- 👋 Hi, I’m Vladislav
-- 👀 I am 18 years old and I have been programming in JS since 15. 
-- 📫 How to reach me 
-wennerryle@gmail.com OR vk.com/s.tonks OR tg: @wennerryle
+```json
+{
+    "wennerryle": {
+        "fullname": "Vladislav Pozdeev",
+        "age": 18,
+        "languages": ["TS", "JS", "Java"],
+        "frameworks": ["vue", "svelte", "tauri"],
+        "contacts": {
+            "telegram": "https://t.me/wennerryle",
+            "email": "vladislavpozdeevcv@gmail.com"
+        }
+    }
+}
+```
