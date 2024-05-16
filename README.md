@@ -2,7 +2,7 @@
 {
     "wennerryle": {
         "fullname": "Vladislav Pozdeev",
-        "age": 18,
+        "age": 19,
         "languages": ["TS", "JS", "Java", "Python"],
         "frameworks": ["vue", "svelte", "tauri"],
         "contacts": {
